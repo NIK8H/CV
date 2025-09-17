@@ -1,3 +1,4 @@
+<!--
 <h1>Hi, I'm NIKITH! <br/><a href="https://github.com/NIK8H?tab=repositories">Programmer</a>, 
   <a href="https://www.linkedin.com/in/nikith-kaithalapuram//">IT Professional</a>,
   <a href="https://www.youtube.com/@nikithk2060">YouTube</a></h1>
@@ -59,4 +60,84 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+
+
+
+# NIKITH KAITHALAPURAM
+
+📍 Atlanta, GA | 📞 857-395-8270 | 📧 nikith.kaithalapuram@unh.edu | 🌐 [GitHub](https://github.com/NIK8H)
+
+## Summary
+
+DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Experienced in automating scalable, secure cloud systems using Terraform, Jenkins, and Docker. Proven track record in cloud-native development, real-time monitoring, and Agile collaboration.
+
+## Technical Skills
+
+- **Languages:** Python, Bash, SQL, Shell, JavaScript, ReactJS
+- **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation, RDS)
+- **Tools:** Docker, Kubernetes, Terraform, Jenkins, Kafka, Ansible, RabbitMQ, Grafana
+- **Monitoring:** MongoDB, Tableau, Elasticsearch, Kibana, Logstash
+- **Version Control:** Git, GitHub, GitHub Actions
+- **Project Management:** JIRA, SCRUM, Confluence
+- **Operating Systems:** Windows, Linux
+
+## Work Experience
+
+### DevOps Engineer Intern – Smart Rewards Inc, NY (Dec 2024 – May 2025)
+
+- Architected secure network infrastructure using VPC peering, Transit Gateway, and Route 53
+- Integrated DynamoDB with AWS Lambda for serverless data processing
+- Set up Prometheus monitoring and applied TCP/IP, DNS, HTTP/HTTPS principles
+
+### Graduate Assistant – University of New Hampshire (Aug 2022 – May 2024)
+
+- Designed REST APIs with Spring & Hibernate, integrated with React dashboard
+- Modernized UI stack, migrated legacy code to React.js
+- Engineered CI/CD pipelines with Jenkins and Docker
+
+### Machine Learning Data Associate – Amazon Development Centre, India (May 2018 – Aug 2021)
+
+- Built neural network model in Keras with 92% accuracy
+- Automated SIP traffic analysis using Wireshark and Scapy
+- Used ServiceNow for incident tracking and resolution
+
+## Education
+
+- **Master’s in Information Technology** – University of New Hampshire (May 2024)
+- **Bachelor’s in Electronics & Communication Engineering** – JNTU Hyderabad (May 2018)
+
+## Certifications
+
+- AWS Certified Solutions Architect Associate
+- Agile Software Development Scrum for Developers
+- Fundamentals of CockroachDB with Python SQLAlchemy
+- Technology Entrepreneurship – Indian School of Business
+- CompTIA Network+ (pending)
+- HashiCorp Terraform Associate (pending)
+
+## Projects
+
+### Power BI Data Analyst – Unicron Companies Dashboard
+
+- Created dynamic dashboard uncovering 30% revenue gap
+- Automated ETL workflows using Power Query
+
+### Wireshark & Cisco Packet Tracer Network Simulation
+
+- Built IPv4/IPv6 dual-stack routing simulation with QoS optimization
+- Improved VoIP traffic delivery by 40% using DSCP prioritization
+
+### Kaminsky DNS Cache Poisoning – Remote Exploit Lab
+
+- Engineered DNS poisoning attack using Python/Scapy and C
+- Validated attack success via Wireshark and DNS record analysis
+
+## Research & Volunteer
+
+- Presented “Serverless Architecture Using AWS Lambda” at UNH Graduate Research Conference (2024)
+- Led food bank automation initiative, boosting donations by 100%
+- Member of CNCF (Cloud Native Computing Foundation) – 2025
+
