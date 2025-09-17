@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 # NIKITH KAITHALAPURAM
 
-📍 Atlanta, GA | 📞 857-395-8270 | 📧 nikith.kaithalapuram@unh.edu | 🌐 [GitHub](https://github.com/NIK8H)
+📍 Atlanta, GA | 📞 857-395-8270 | 📧 nikith.kaithalapuram@unh.edu | 🌐 [GitHub](https://github.com/NIK8H) | [Linkedin](https://www.linkedin.com/in/nikith-kaithalapuram/)
 
 ## Summary
 
