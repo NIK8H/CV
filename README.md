@@ -84,29 +84,10 @@ DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Ex
 - **Project Management:** JIRA, SCRUM, Confluence
 - **Operating Systems:** Windows, Linux
 
-## Work Experience
-
-### DevOps Engineer Intern – Smart Rewards Inc, NY (Dec 2024 – May 2025)
-
-- Architected secure network infrastructure using VPC peering, Transit Gateway, and Route 53
-- Integrated DynamoDB with AWS Lambda for serverless data processing
-- Set up Prometheus monitoring and applied TCP/IP, DNS, HTTP/HTTPS principles
-
-### Graduate Assistant – University of New Hampshire (Aug 2022 – May 2024)
-
-- Designed REST APIs with Spring & Hibernate, integrated with React dashboard
-- Modernized UI stack, migrated legacy code to React.js
-- Engineered CI/CD pipelines with Jenkins and Docker
-
-### Machine Learning Data Associate – Amazon Development Centre, India (May 2018 – Aug 2021)
-
-- Built neural network model in Keras with 92% accuracy
-- Automated SIP traffic analysis using Wireshark and Scapy
-- Used ServiceNow for incident tracking and resolution
-
 ## Education
 
 - **Master’s in Information Technology** – University of New Hampshire (May 2024)
+- **Master’s in Digital Systems and Computer Electronics** – JNTU Hyderabad (May 2020)
 - **Bachelor’s in Electronics & Communication Engineering** – JNTU Hyderabad (May 2018)
 
 ## Certifications
@@ -118,26 +99,96 @@ DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Ex
 - CompTIA Network+ (pending)
 - HashiCorp Terraform Associate (pending)
 
-## Projects
+
+## Work Experience
+
+### DevOps Engineer Intern – Smart Rewards Inc, NY (Dec 2024 – May 2025)
+
+- Architected secure network infrastructure using VPC peering, Transit Gateway, and Route 53
+- Integrated DynamoDB with AWS Lambda for serverless data processing.
+- Set up Prometheus monitoring and applied TCP/IP, DNS, HTTP/HTTPS principles
+- Collaborated in Agile teams, identifying and eliminating blockers through regular sprint retrospectives. Designed highly available microservice infrastructure leveraging multi-zone AWS deployments and GPU-optimized instances for compute-intensive workloads.
+
+
+### Graduate Assistant – University of New Hampshire (Aug 2022 – May 2024)
+
+- Designed REST APIs with Spring & Hibernate, integrated with React dashboard
+- Modernized UI stack, migrated legacy code to React.js
+- Leveraged AWS networking components, including VPC peering, Transit Gateway, and Route 53, to architect complex network infrastructures for seamless communication.
+- Improved system stability by 40% by monitoring infrastructure with Splunk, Nagios, and CloudWatch, proactively identifying and resolving performance bottlenecks.
+- Reinforced Kubernetes clusters' RBAC policies, Network Policies, Pod Security, integrated image scanning into CI and enforced admission controls to block vulnerable images.
+- Performed CRUD operations like update, Insert and Delete data in MongoDB and handled database access and data transmission based on RESTful API.
+- Improved delivery integrity and auditability by implementing branch protection rules, artifact version control, and policy-as-code checks within GitLab CI/CD and GitHub Actions, aligning with DevSecOps best practices and cutting manual effort by 80%.
+- Integrated DynamoDB with AWS Lambda functions, enabling serverless data processing and reducing infrastructure overhead.
+- Engineered CI/CD pipelines with Jenkins and Docker
+
+### Machine Learning Data Associate – Amazon Development Centre, India (Mar 2019 – Aug 2021)
+
+- Built a neural network model in Keras with 92% accuracy
+- Automated SIP traffic analysis using Wireshark and Scapy
+- Used ServiceNow for incident tracking and resolution.
+- Automated SIP traffic analysis using Wireshark and Scapy, saving 300+ man-hours via advanced data processing scripts.
+- Integrated Go-based concurrency testing into Jenkins and GitHub Actions pipelines using go test -race and benchmarks, reducing regression defects by 30% in concurrent code paths.
+- Accelerated data integration by designing ETL pipelines in AWS Glue and Azure Data Factory for large datasets stored in S3 and Databricks.
+- Validated virtual platform builds by using Vagrant to automate OS-level provisioning (RHEL, Ubuntu) for integration testing, ensuring environment parity and minimizing production rollback incidents.
+- Pioneered ML workflows to flag faulty product placements, contributing to operational improvements in fulfilment.
+
+### Embedded Engineer - Bharat Dynamics Limited – Hyderabad, India (Jan 2018 - May 2018)
+
+- Optimized redesign of PIC18F4550 microcontroller.
+- Temperature, Humidity, and Acceleration of the specimen were identified using DHT22 sensors and ADCL345.
+- Implemented embedded C, Linux, and RTOS for a Defense project “Monitoring System of Missile” using Keil, with highly secure ARM cortex, improved security and estimation of operating missile simulation.
+- Initiated programming in an IDE along with a compiler to generate HEX code.
+
+### Embedded Engineer Intern - Nuclear Fuel Complex – Hyderabad, India (Jun 2017 - Jul 2021)
+
+- Zigbee Wireless., Learned IEEE 802.15.4, in which Zigbee Wireless Network works.
+- Implemented 24x7 critical-situations duty management over the LED display.
+- As an embedded intern in a mission-critical chemical industry, focusing on fire alarm system monitoring using wireless technology 2.4 GHz, Mesh Network, implemented 10 ZigBee’s. Applied advanced data communication theory to minimize radiation by 70% through low-power electronics
+- Contributed to implementing the Zigbee module in the project with the help of an industry guide.
+- Successfully participated in 4 weeks during the project.
+
+
+## Academic Projects
 
 ### Power BI Data Analyst – Unicron Companies Dashboard
 
-- Created dynamic dashboard uncovering 30% revenue gap
-- Automated ETL workflows using Power Query
+- Created a dynamic Power BI dashboard to examine sales data across multiple regions, uncovering a 30% revenue gap that informed region-specific marketing strategies.
+- Integrated DynamoDB for high-throughput NoSQL workloads while maintaining relational data models in PostgreSQL for transactional consistency.
+- Automated ETL workflows using Power BI Power Query to ingest and transform Excel/CSV datasets, reducing manual data preparation time by 60%.
+- Cleaned and standardized over 5,000 records from Excel, resolving 100+ null or inconsistent entries using transformation logic in Power Query.
+- Tools & Technologies: Excel, CSV, Power Query Editor, Dashboard.
+- Environment: Microsoft Excel, Visualization, Data modeling, Microsoft Power BI, GitHub, Windows OS
 
 ### Wireshark & Cisco Packet Tracer Network Simulation
 
-- Built IPv4/IPv6 dual-stack routing simulation with QoS optimization
-- Improved VoIP traffic delivery by 40% using DSCP prioritization
+- Utilized Differentiated Services Code Point (DSCP) to classify and prioritize traffic; validated packet marking using Wireshark and achieved up to 40% improvement in simulated VoIP traffic delivery by assigning EF (Expedited Forwarding) values.
+- Built an end-to-end enterprise network simulation using Cisco Packet Tracer featuring IPv4/IPv6 dual-stack routing, 802.11ac wireless connectivity, TCP/IP protocol analysis, and DSCP-based QoS optimization.
+- Leveraged packet capture tools to validate traffic flow, latency, and service prioritization.
+- Tools & Technologies: Cisco Packet Tracer, Wireshark, DSCP, TCP/IP, IPV4, IPV6, 802.11ac, ICMP UDP, Ping, Traceroute, IP SLA.
+- Environment: Cisco Packet Tracer, Ipv4, IPv6, QoS, DSCP, Scripting.
+
+
 
 ### Kaminsky DNS Cache Poisoning – Remote Exploit Lab
 
-- Engineered DNS poisoning attack using Python/Scapy and C
-- Validated attack success via Wireshark and DNS record analysis
+- Implemented a hybrid attack strategy combining Python/Scapy and raw-socket C programming to generate and flood DNS replies with random transaction IDs, reaching over 5000+ packets/sec throughput for optimal collision probability.
+- Validated attack success through rndc dumpdb -cache, DNS record analysis, and packet capture in Wireshark, showing the poisoned cache contained forged NS and A records.
+- Engineered a remote DNS cache poisoning attack (Kaminsky method) by crafting high-volume spoofed DNS responses to a vulnerable BIND9 local DNS server, achieving successful injection of malicious NS records.
+- Tools & Technologies: BIND9, Scapy, C, Wireshark, dig, Docker, Linux, DNS.
+- Environment: SEED Ubuntu 20.04 VM, Webservices, Network Traffic Analysis, 4-node network topology with Docker-based containers.
+
+
 
 ## Research & Volunteer
 
-- Presented “Serverless Architecture Using AWS Lambda” at UNH Graduate Research Conference (2024)
+- “Serverless Architecture Using AWS Lambda”. Research work presented at the 2024 Graduate Research Conference held at the University of New Hampshire. 
+Accomplished high server availability as measured by a 99% uptime, by successfully handling HTTP requests routed through API Gateway, and solved GitHub public issues.
+
 - Led food bank automation initiative, boosting donations by 100%
+- Implementation Of Secured Communication Code For D2D Network In Smart City Application DEC 2020
+Publication in HTL JOURNAL Volume 27, Issue 3, March 2021. ISSN NO: 1006-6748 Scientific Journal Impact Factor – 2.7
 - Member of CNCF (Cloud Native Computing Foundation) – 2025
+
+
 
