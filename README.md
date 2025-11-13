@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ## Summary
 
-DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Experienced in automating scalable, secure cloud systems using Terraform, Jenkins, and Docker. Proven track record in cloud-native development, real-time monitoring, and Agile collaboration.
+DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Experienced in automating scalable, secure cloud systems using Terraform, Jenkins, and Docker. Proven track record in cloud-native development, real-time monitoring through automation, observability, security-by-design practices, and Agile collaboration.
 
 ## Technical Skills
 
