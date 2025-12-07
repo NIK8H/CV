@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 # NIKITH KAITHALAPURAM
 
-📍 Atlanta, GA | 📞 857-395-8270 | 📧 nikith.kaithalapuram@unh.edu | 🌐 [GitHub](https://github.com/NIK8H) | [Linkedin](https://www.linkedin.com/in/nikith-kaithalapuram/)
+📍 Atlanta, GA | 📞 857-395-8270 | 📧 nikithatwork@gmail.com | 🌐 [GitHub](https://github.com/NIK8H) | [Linkedin](https://www.linkedin.com/in/nikith-kaithalapuram/)
 
 ## Summary
 
@@ -80,7 +80,7 @@ DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Ex
 - **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation, RDS)
 - **Tools:** Docker, Kubernetes, Terraform, Jenkins, Kafka, Ansible, RabbitMQ, Grafana
 - **Monitoring:** MongoDB, Tableau, Elasticsearch, Kibana, Logstash
-- **Version Control:** Git, GitHub, GitHub Actions
+- **Version Control:** Git, GitHub, GitHub Actions, GitOps
 - **Project Management:** JIRA, SCRUM, Confluence
 - **Operating Systems:** Windows, Linux
 
@@ -92,12 +92,15 @@ DevOps Engineer with strong AWS, CI/CD, and Infrastructure as Code expertise. Ex
 
 ## Certifications
 
-- AWS Certified Solutions Architect Associate
-- Agile Software Development Scrum for Developers
-- Fundamentals of CockroachDB with Python SQLAlchemy
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/4d8abc68-609a-417e-9b32-9656044630ca/public_url)
+- [Agile Software Development Scrum for Developers](https://www.linkedin.com/learning/certificates/552b78c0028db45f1a7c6f31c5dd6ed30a35552b1c838ae4bfc57cadd2917d7e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BJYnqQgr7Q%2B6WX6XU5FQ3JQ%3D%3D)
+- [Fundamentals of CockroachDB with Python SQLAlchemy](https://university.cockroachlabs.com/certificates/d6a7e1f249224fd6ad01abe589e062c7)
 - Technology Entrepreneurship – Indian School of Business
-- CompTIA Network+ (pending)
 - HashiCorp Terraform Associate (pending)
+- [Introduction to Contionus Delivery and GitOps using Argo CD](https://www.credential.net/4a0a77d4-b5f3-40c8-b4c6-673dcdec2971#acc.i2Jd6UV8)
+- [Devops Capstone IBM](https://www.credly.com/badges/a513a01a-5f91-45d3-994e-1dee2c88d4da/public_url)
+
+
 
 
 ## Work Experience
@@ -189,6 +192,5 @@ Accomplished high server availability as measured by a 99% uptime, by successful
 - Implementation Of Secured Communication Code For D2D Network In Smart City Application DEC 2020
 Publication in HTL JOURNAL Volume 27, Issue 3, March 2021. ISSN NO: 1006-6748 Scientific Journal Impact Factor – 2.7
 - Member of CNCF (Cloud Native Computing Foundation) – 2025
-
 
 
